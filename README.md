@@ -11,6 +11,7 @@ A fully functional online banking system created for the course project of Softw
 
 ## Tools and Technology used
 
+### Tools for development
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -18,3 +19,11 @@ A fully functional online banking system created for the course project of Softw
 - [Bootstrap](https://getbootstrap.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Visual Studio](https://visualstudio.microsoft.com/)
+
+### Tools for designing
+- [Power Designer]()
+- [Visual Paradigm](https://www.visual-paradigm.com/)
+- [Figma](https://www.figma.com/)
+
+
+
