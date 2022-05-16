@@ -33,5 +33,12 @@ A fully functional online banking system created for the course project of Softw
 4. The **Project-lab-assignments** folder contains the project lab submissions done during the course.
 5. The **evaluation-ppts** folder contains the mid review and the final review presentations of the project.
 
+## Abbreviations
+1. TS - TimeSheet
+2. WSR - Weekly Status Report
+3. PMD - Project Management Document
+4. PDD - Project Detail Document
+5. UML - Unified Modeling Language
+
 
 
