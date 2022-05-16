@@ -25,5 +25,13 @@ A fully functional online banking system created for the course project of Softw
 - [Visual Paradigm](https://www.visual-paradigm.com/)
 - [Figma](https://www.figma.com/)
 
+## Folders
+
+1. The **week** wise folders contain the weekly submissions for the project i.e. the timesheets (for all the members), weekly status reports, project detail reports and the project management documents.
+2. The folder of **UML-diagrams** contains all the 14 UML diagrams created for the project including the Data flow diagrams, Communication diagrams, timing diagrams etc.
+3. The **code** folder contains three subfolders for the codes of HTML, CSS and Javascript used in the development of the website.
+4. The **Project-lab-assignments** folder contains the project lab submissions done during the course.
+5. The **evaluation-ppts** folder contains the mid review and the final review presentations of the project.
+
 
 
